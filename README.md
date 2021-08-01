@@ -1,3 +1,9 @@
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+
+
+
 # Whatsapp Send
 
 Um simples script para enviar textos linha por linha no whatsapp
@@ -42,3 +48,4 @@ Agora simplesmente aprecie a arte acontecer...
 ## Aviso
 
 Lembre-se que o whatsapp tem uma política contra flood, caso seja denúnciado pode levar um banimento temporário em seu número cadastrado no app
+
