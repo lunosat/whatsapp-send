@@ -11,7 +11,7 @@ Um simples script para enviar textos linha por linha no whatsapp
 
 ### Depedências
 
-* Navegador com modo dev (Chrome, Fireox, Etc)
+* Navegador com modo desenvolvedor (Chrome, Fireox, Etc)
 
 ### Preparando
 
