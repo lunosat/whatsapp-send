@@ -29,10 +29,9 @@ function sendScript(scriptText){
     }, 250)
 }
 
-sendScript(`TEXT HERE
-TEXT HERE
-TEXT HERE
-
+sendScript(`Este é
+seu texto
+Atual
 
 *Sapphire Network*
 `);
